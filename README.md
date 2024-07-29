@@ -6,3 +6,9 @@ Random library:
      This library is used to make choices in behalf of the computer as either Rock,paper or scissors. 
 Tkinter:
      I have used tkinter for GUI,as it may be more interactive and provides the human the feel of real game. 
+The output of this game be like as below:
+
+![output1](https://github.com/user-attachments/assets/7090c564-3bfa-410f-994a-69af23f74785)
+
+
+![output](https://github.com/user-attachments/assets/37f6a553-e885-468c-8f4c-6a2af580be45)
